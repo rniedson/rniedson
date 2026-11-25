@@ -10,7 +10,7 @@ Developer focused on **automation and performance** · scripts, bots, CTF writeu
 
 ---
 
-## 🎬 Featured: Higgsfield Director PRO
+## 🎬 Featured: [Higgsfield Director PRO](https://github.com/rniedson/higgsfield-director-pro-skill)
 
 <a href="https://github.com/rniedson/higgsfield-director-pro-skill">
   <img src="https://raw.githubusercontent.com/rniedson/higgsfield-director-pro-skill/main/docs/assets/social-preview.png" alt="Higgsfield Director PRO: cinematic direction skill for AI-generated video" width="100%">
@@ -23,6 +23,8 @@ Developer focused on **automation and performance** · scripts, bots, CTF writeu
 ![Tested in Claude Code](https://img.shields.io/badge/tested%20in-Claude%20Code-bca271)
 ![Python](https://img.shields.io/badge/python-3.9%2B-3776AB)
 [![License: MIT](https://img.shields.io/badge/code-MIT-blue)](https://github.com/rniedson/higgsfield-director-pro-skill/blob/main/LICENSE)
+
+<a href="https://github.com/rniedson/higgsfield-director-pro-skill"><img src="https://img.shields.io/badge/Open%20the%20repository-%E2%86%92-bca271?style=for-the-badge&logo=github&logoColor=white&labelColor=101217" alt="Open the Higgsfield Director PRO repository"></a>
 
 </div>
 
@@ -45,7 +47,7 @@ git clone https://github.com/rniedson/higgsfield-director-pro-skill.git
 ln -s "$PWD/higgsfield-director-pro-skill/higgsfield-director" ~/.claude/skills/higgsfield-director
 ```
 
-**[Read the README](https://github.com/rniedson/higgsfield-director-pro-skill#readme)** · [Illustrated manual](https://github.com/rniedson/higgsfield-director-pro-skill/blob/main/docs/manual/README.md) ·
+**[Open the repository](https://github.com/rniedson/higgsfield-director-pro-skill)** · [README](https://github.com/rniedson/higgsfield-director-pro-skill#readme) · [Illustrated manual](https://github.com/rniedson/higgsfield-director-pro-skill/blob/main/docs/manual/README.md) ·
 [Discussions](https://github.com/rniedson/higgsfield-director-pro-skill/discussions) · [Changelog](https://github.com/rniedson/higgsfield-director-pro-skill/blob/main/CHANGELOG.md)
 
 <sub>Independent project, not affiliated with or endorsed by Higgsfield.</sub>
